@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to right ,#bdc3c7,#2c3e50);
+}
+.container{
+    text-align: center;
+    margin: 23px;
+}
+table{
+    margin: auto;
+
+}
+input{
+    font-size: 34px;
+    width: auto;
+    border-radius: 15px;
+    border: 3px solid black;
+    
+   
+
+}
+button{
+      font-size: 23px;
+      background: rgb(230, 143, 31);
+      width: 103px;
+      height: 50px;
+      border-radius: 15px;
+     
+}
+h1{
+    color: black;
+}
+.calculator{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 15px;
+background-color: black;
+
+
+}
